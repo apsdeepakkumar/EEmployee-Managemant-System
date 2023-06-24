@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Microsoft.AspNetCore.Http.Features</name>
+        <name>Microsoft.AAAspNetCore.Http.Features</name>
     </assembly>
     <members>
         <member name="T:Microsoft.AspNetCore.Http.Features.IFeatureCollection">
